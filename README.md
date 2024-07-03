@@ -19,7 +19,7 @@ This project implements a web crawler designed to extract specific metrics and d
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/web-crawler.git
+   git clone https://github.com/Gnaneshwar7020/WebCrawler.git
    ```
 2. Navigate to the project directory:
    ```
@@ -43,8 +43,6 @@ This project implements a web crawler designed to extract specific metrics and d
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
