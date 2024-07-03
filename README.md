@@ -13,6 +13,7 @@ This project implements a web crawler designed to extract specific metrics and d
 - **Metrics Display**: Displays retrieved metrics in real-time for monitoring purposes.
 - **Optimization**: Implemented a database-backed system to track visited URLs, preventing redundant requests.
 
+<img width="1470" alt="image" src="https://github.com/Gnaneshwar7020/WebCrawler/assets/70259681/53da7236-1f47-42ee-9659-5c69ba363515">
 
 ## Requirements
 - Python 3.x
