@@ -11,6 +11,8 @@ This project implements a web crawler designed to extract specific metrics and d
 - **Metric Extraction**: Parses HTML pages to extract CPU and memory usage metrics.
 - **Error Handling**: Implements robust error handling to ensure data integrity and reliability.
 - **Metrics Display**: Displays retrieved metrics in real-time for monitoring purposes.
+- **Optimization**: Implemented a database-backed system to track visited URLs, preventing redundant requests.
+
 
 ## Requirements
 - Python 3.x
@@ -23,7 +25,7 @@ This project implements a web crawler designed to extract specific metrics and d
    ```
 2. Navigate to the project directory:
    ```
-   cd web-crawler
+   cd WebCrawler
    ```
 3. Install dependencies:
    ```
@@ -33,9 +35,14 @@ This project implements a web crawler designed to extract specific metrics and d
 ## Usage
 1. Run the main script:
    ```
-   python main.py
+   python app.py
    ```
 2. Monitor the console output for real-time metrics retrieved from the specified websites.
+3. Run the crawler script:
+   ```
+   python crawler.py
+   ```
+4. Crawler starts working and you can observe the cpu state.
 
 ## Configuration
 - Customize the list of target URLs and other parameters in `config.py` according to your requirements.
