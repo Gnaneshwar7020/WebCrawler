@@ -17,7 +17,7 @@ This project implements a web crawler designed to extract specific metrics and d
 
 ## Requirements
 - Python 3.x
-- Required Python packages: requests, beautifulsoup4, concurrent.futures
+- Required Python packages: requests, beautifulsoup4, PSutil
 
 ## Installation
 1. Clone the repository:
